@@ -2,6 +2,12 @@
 
 This project contains a Playwright test suite for the Automation Exercise website, implemented using the Page Object Model (POM) pattern.
 
+## Video Demonstration
+https://github.com/user-attachments/assets/843c738d-03a2-43b0-b1b7-f7c6d98b9e2b
+
+
+
+
 ## Project structure
 
 ```text
@@ -18,6 +24,7 @@ automation-excercise/
 ├── README.md
 └── node_modules/
 ```
+
 
 ## Tech stack
 
